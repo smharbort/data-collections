@@ -62,9 +62,9 @@ const parsedCSVString2 = parseCSVData(CSVString2)
 console.log(parsedCSVString2)
 console.log(typeof parsedCSVString2) */
 
-//                                                              PART THREE: Transforming Data
+//                                                              PART THREE: Transforming Data-- NOT FINISHED YET
 
-function arrToObj (array3D) {
+/* function arrToObj (array3D) {
 
     newParsedByCells = []
 
@@ -82,4 +82,4 @@ function arrToObj (array3D) {
 
 }
 
-const tryThis = arrToObj(parsedCSVString)
+const tryThis = arrToObj(parsedCSVString) */
